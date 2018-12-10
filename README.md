@@ -1,3 +1,3 @@
 # hello-world1
 just another repository
-this is prudhvi raju
+this is prudhvi
